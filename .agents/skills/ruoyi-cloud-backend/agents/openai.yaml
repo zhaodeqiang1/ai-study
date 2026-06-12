@@ -1,0 +1,5 @@
+interface:
+  display_name: "RuoYi Cloud Backend"
+  short_description: "RuoYi 后端开发"
+  default_prompt: "使用 RuoYi Cloud Backend 技能处理本次后端任务。"
+

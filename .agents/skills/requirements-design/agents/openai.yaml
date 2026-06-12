@@ -1,0 +1,5 @@
+interface:
+  display_name: "Requirements Design"
+  short_description: "需求设计与影响评估"
+  default_prompt: "使用 Requirements Design 技能设计需求、评估影响范围，并写入 docs/requirements。"
+

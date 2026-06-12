@@ -1,0 +1,5 @@
+interface:
+  display_name: "RuoYi Vue Frontend"
+  short_description: "RuoYi 前端开发"
+  default_prompt: "使用 RuoYi Vue Frontend 技能处理本次前端任务。"
+

@@ -1,0 +1,5 @@
+interface:
+  display_name: "Database MyBatis"
+  short_description: "数据库和 MyBatis"
+  default_prompt: "使用 Database MyBatis 技能处理本次数据库或 SQL 任务。"
+

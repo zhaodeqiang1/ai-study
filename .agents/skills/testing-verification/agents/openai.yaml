@@ -1,0 +1,5 @@
+interface:
+  display_name: "Testing Verification"
+  short_description: "测试和验证"
+  default_prompt: "使用 Testing Verification 技能处理本次验证任务。"
+

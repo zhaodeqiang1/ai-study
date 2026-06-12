@@ -1,0 +1,5 @@
+interface:
+  display_name: "Code Review"
+  short_description: "代码审查门"
+  default_prompt: "使用 Code Review 技能处理本次审查或审查门任务。"
+

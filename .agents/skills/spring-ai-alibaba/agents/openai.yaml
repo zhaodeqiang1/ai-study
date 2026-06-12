@@ -1,0 +1,5 @@
+interface:
+  display_name: "Spring AI Alibaba"
+  short_description: "Spring AI 和 RAG"
+  default_prompt: "使用 Spring AI Alibaba 技能处理本次 AI 开发任务。"
+
